@@ -1,5 +1,5 @@
 [chain]
-read_rpc    = "wss://eth-mainnet.alchemyapi.io/v2/<YOUR_KEY>"
+read_rpc    = "wss://eth-mainnet.alchemyapi.io/v2/CRVpdPw8TapEtQy1ebd10"
 submit_rpcs = [
     "https://rpc.mevblocker.io/fast",
     "https://rpc.flashbots.net/fast",
